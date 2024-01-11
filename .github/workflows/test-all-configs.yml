@@ -13,6 +13,9 @@ jobs:
       shield: '["corne_left"]'
       alphas: '[
         "default",
+        "aptmak",
+        "aptv3",
+        "aptv5",
         "azerty",
         "beakl15",
         "colemak",
