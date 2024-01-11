@@ -19,6 +19,9 @@ on:
         type: choice
         options:
         - "default"
+        - "APTMAK"
+        - "APTV3"
+        - "APTV5"
         - "AZERTY"
         - "BEAKL15"
         - "Colemak"
