@@ -24,20 +24,16 @@ jobs:
         "halmak",
         "qwerty",
         "qwertz",
-        "workman"
-      ]'
+        "workman"]'
       nav: '[
         "default",
         "invertedt",
-        "vi"
-      ]'
+        "vi"]'
       clipboard: '[
         "default",
         "fun",
         "mac",
-        "win"
-      ]'
+        "win"]'
       layers: '[
         "default",
-        "flip"
-      ]'
+        "flip"]'
